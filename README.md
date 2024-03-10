@@ -7,5 +7,10 @@ The 4th **Kibo-RPC.zip** includes all instruction manuals and codes for the Astr
 
 You are welcome to check it out.
 
+[Our team] Complete Files: https://github.com/sinword/KIBO-RPC
+
+[Reference] The 1st-Kibo-RPC_won-spaceY: https://github.com/M-TRCH/1st-Kibo-RPC_won-spaceY
+
 [Video] Final Round 軌道上決勝大会: https://www.youtube.com/watch?v=DBKVAojl0GQ
-[Video] Taiwan Preliminary 台灣區初賽: https://drive.google.com/drive/folders/1ffduGqSnGr3pETkBzxMAxDs4hjwvNyg7
+
+[Photo] Taiwan Preliminary 台灣區初賽: https://drive.google.com/drive/folders/1ffduGqSnGr3pETkBzxMAxDs4hjwvNyg7
